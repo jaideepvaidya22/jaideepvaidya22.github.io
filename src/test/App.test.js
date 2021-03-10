@@ -22,11 +22,6 @@ const pages = [
     component: Index,
   },
   {
-    route: '/about',
-    heading: 'About Me',
-    component: About,
-  },
-  {
     route: '/projects',
     heading: 'Projects',
     component: Projects,
