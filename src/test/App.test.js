@@ -4,10 +4,8 @@
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
 import { render, screen } from '@testing-library/react';
-
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
-
 import Contact from '../pages/Contact';
 import Index from '../pages/About';
 import NotFound from '../pages/NotFound';
@@ -18,7 +16,7 @@ import Stats from '../pages/Stats';
 const pages = [
   {
     route: '/',
-    heading: 'About this site',
+    heading: 'About',
     component: Index,
   },
   {
