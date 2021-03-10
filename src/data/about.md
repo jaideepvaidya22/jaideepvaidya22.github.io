@@ -34,7 +34,7 @@ At [DeepOrange 12](https://cuicardeeporange.com/project/deep-orange-12/), I am i
 - Coffee in rain
 - Gaming
 - Good Skies
-- Memes?
+- Memes
 
 # I dream of
 
