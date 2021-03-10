@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'International Center for Automotive Research, Clemson University',
+    degree: 'M.S. Automotive Engineering',
+    link: 'https://cuicar.com/',
+    year: 2021,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'The University of Mumbai, Don Bosco Institute of Technology (DBIT)',
+    degree: 'B.E. Mechanical Engineering',
+    link: 'https://www.dbit.in/',
+    year: 2019,
   },
 ];
 

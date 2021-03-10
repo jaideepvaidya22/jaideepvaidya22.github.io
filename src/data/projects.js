@@ -1,47 +1,54 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Linear FE Stiffness & Modal Frequency Analysis of a Race Car Frame using Altair Hyperworks',
+    subtitle: '',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide1.JPG',
+    image: '/images/projects/Slide1.jpg',
+    date: '2020-05',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'The objective was to provide insight into the typical design steps that are required to computationally assess the design of a Body-in-white tubular race car structure.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'BIW structure development for new vehicle design',
+    subtitle: '',
+    image: '/images/projects/Slide2.jpg',
+    date: '2020-04',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide2.JPG',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Developed an initial BIW layout and topology structure that met performance requirements for: bending & torsion stiffness, front & rear crash energy management, passenger compartment structural integrity, and overall mass efficiency.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'IATF Compliance through the implementation of Lean Manufacturing Practices',
+    subtitle: '',
+    image: '/images/projects/Slide3.jpg',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide3.JPG',
+    date: '2020-04',
+    desc: 'Prepared a High-level swim-lane and detailed Process map for the heavy gauge line at Blue Ridge Thermoforming (Greenville, SC) and drafted PFMEA and Control Plan that met IATF-16949 Quality Standards. Also, calculated RPN and selected targets based on Pareto Analysis.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Linear FE Analysis & Topology Optimization of Brake Pedal Arm',
+    subtitle: '',
+    image: '/images/projects/Slide4.jpg',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide4.JPG',
+    date: '2019-11',
+    desc: 'Identified the causes and the effects of lugging weight around for extended periods of time daily, in narrow, densely crowded streets of Mumbai, India; then planed and implement solutions such as material, dimensional, and addition of a third wheel which mitigated the hardships faced due to this problem.',
+  },
+  {
+    title: 'Ergonomic Optimization of Hand Cart using Design Thinking, India',
+    subtitle: '',
+    image: '/images/projects/Slide5.jpg',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide5.JPG',
+    date: '2019-05',
+    desc: 'Identified the causes and the effects of lugging weight around for extended periods of time daily, in narrow, densely crowded streets of Mumbai, India; then planed and implement solutions such as material, dimensional, and addition of a third wheel which mitigated the hardships faced due to this problem.',
+  },
+  {
+    title: 'Design and Manufacture of ATVs, India',
+    subtitle: '',
+    image: '/images/projects/Slide6.jpg',
+    date: '2018-10',
+    link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide6.JPG',
+    desc: 'Worked cross functionally as Team Captain and Chief designer of Transmission and Rear braking system while managing a team of 30. Drafted DFMEA, mechanical drawings with GD&T, BOM, developed and executed the Design Validation Plan (DVP) and validated it by conducting maneuverability, traction, suspension, acceleration and vibration tests on the vehicle, created test results. Designed and analyzed components using SolidWorks and ANSYS for assembly and manufacturing.',
   },
 ];
 
