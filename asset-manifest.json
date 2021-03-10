@@ -3,8 +3,8 @@
     "main.css": "/jaideepvaidya22/jaideepvaidya22.github.io/static/css/main.df23277b.chunk.css",
     "main.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/main.f1481ed6.chunk.js",
     "main.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/main.f1481ed6.chunk.js.map",
-    "runtime-main.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/runtime-main.22249d49.js",
-    "runtime-main.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/runtime-main.22249d49.js.map",
+    "runtime-main.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/runtime-main.76ec9277.js",
+    "runtime-main.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/runtime-main.76ec9277.js.map",
     "static/js/2.a16ceb8c.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/2.a16ceb8c.chunk.js",
     "static/js/2.a16ceb8c.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/2.a16ceb8c.chunk.js.map",
     "static/js/3.cf830009.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/3.cf830009.chunk.js",
@@ -15,8 +15,8 @@
     "static/js/5.df76c862.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/5.df76c862.chunk.js.map",
     "static/js/6.4536971c.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/6.4536971c.chunk.js",
     "static/js/6.4536971c.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/6.4536971c.chunk.js.map",
-    "static/js/7.fd452945.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/7.fd452945.chunk.js",
-    "static/js/7.fd452945.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/7.fd452945.chunk.js.map",
+    "static/js/7.cb22b715.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/7.cb22b715.chunk.js",
+    "static/js/7.cb22b715.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/7.cb22b715.chunk.js.map",
     "static/js/8.bb024470.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/8.bb024470.chunk.js",
     "static/js/8.bb024470.chunk.js.map": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/8.bb024470.chunk.js.map",
     "static/js/9.1119d30a.chunk.js": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/9.1119d30a.chunk.js",
@@ -29,7 +29,7 @@
     "static/js/3.cf830009.chunk.js.LICENSE.txt": "/jaideepvaidya22/jaideepvaidya22.github.io/static/js/3.cf830009.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22249d49.js",
+    "static/js/runtime-main.76ec9277.js",
     "static/js/3.cf830009.chunk.js",
     "static/css/main.df23277b.chunk.css",
     "static/js/main.f1481ed6.chunk.js"
