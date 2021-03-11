@@ -12,7 +12,7 @@ const data = [
   {
     title: 'BIW structure development for new vehicle design',
     subtitle: '',
-    image: 'images/projects/Slide2.jpg',
+    image: '/images/projects/Slide2.jpg',
     date: '2020-04',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide2.jpg',
     desc:
@@ -21,7 +21,7 @@ const data = [
   {
     title: 'IATF Compliance through the implementation of Lean Manufacturing Practices',
     subtitle: '',
-    image: 'images/projects/Slide3.jpg',
+    image: '/images/projects/Slide3.jpg',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide3.jpg',
     date: '2020-04',
     desc: 'Prepared a High-level swim-lane and detailed Process map for the heavy gauge line at Blue Ridge Thermoforming (Greenville, SC) and drafted PFMEA and Control Plan that met IATF-16949 Quality Standards. Also, calculated RPN and selected targets based on Pareto Analysis.',
@@ -29,7 +29,7 @@ const data = [
   {
     title: 'Linear FE Analysis & Topology Optimization of Brake Pedal Arm',
     subtitle: '',
-    image: 'images/projects/Slide4.jpg',
+    image: '/images/projects/Slide4.jpg',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide4.jpg',
     date: '2019-11',
     desc: 'Identified the causes and the effects of lugging weight around for extended periods of time daily, in narrow, densely crowded streets of Mumbai, India; then planed and implement solutions such as material, dimensional, and addition of a third wheel which mitigated the hardships faced due to this problem.',
@@ -37,7 +37,7 @@ const data = [
   {
     title: 'Ergonomic Optimization of Hand Cart using Design Thinking, India',
     subtitle: '',
-    image: 'images/projects/Slide5.jpg',
+    image: '/images/projects/Slide5.jpg',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide5.jpg',
     date: '2019-05',
     desc: 'Identified the causes and the effects of lugging weight around for extended periods of time daily, in narrow, densely crowded streets of Mumbai, India; then planed and implement solutions such as material, dimensional, and addition of a third wheel which mitigated the hardships faced due to this problem.',
@@ -45,7 +45,7 @@ const data = [
   {
     title: 'Design and Manufacture of ATVs, India',
     subtitle: '',
-    image: 'images/projects/Slide6.jpg',
+    image: '/images/projects/Slide6.jpg',
     date: '2018-10',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide6.jpg',
     desc: 'Worked cross functionally as Team Captain and Chief designer of Transmission and Rear braking system while managing a team of 30. Drafted DFMEA, mechanical drawings with GD&T, BOM, developed and executed the Design Validation Plan (DVP) and validated it by conducting maneuverability, traction, suspension, acceleration and vibration tests on the vehicle, created test results. Designed and analyzed components using SolidWorks and ANSYS for assembly and manufacturing.',
