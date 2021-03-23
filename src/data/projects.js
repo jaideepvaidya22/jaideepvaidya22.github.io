@@ -21,7 +21,7 @@ const data = [
   {
     title: 'IATF Compliance through the implementation of Lean Manufacturing Practices',
     subtitle: '',
-    image: '/images/projects/Slide3.jpg',
+    image: '/images/projects/Slide4.jpg',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide3.jpg',
     date: '2020-04',
     desc: 'Prepared a High-level swim-lane and detailed Process map for the heavy gauge line at Blue Ridge Thermoforming (Greenville, SC) and drafted PFMEA and Control Plan that met IATF-16949 Quality Standards. Also, calculated RPN and selected targets based on Pareto Analysis.',
@@ -29,7 +29,7 @@ const data = [
   {
     title: 'Linear FE Analysis & Topology Optimization of Brake Pedal Arm',
     subtitle: '',
-    image: '/images/projects/Slide4.jpg',
+    image: '/images/projects/Slide3.jpg',
     link: 'https://raw.githubusercontent.com/jaideepvaidya22/project-photos/main/Slide4.jpg',
     date: '2019-11',
     desc: 'Identified the causes and the effects of lugging weight around for extended periods of time daily, in narrow, densely crowded streets of Mumbai, India; then planed and implement solutions such as material, dimensional, and addition of a third wheel which mitigated the hardships faced due to this problem.',
